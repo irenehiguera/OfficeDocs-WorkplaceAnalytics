@@ -129,6 +129,8 @@ MyAnalytics provides flexible and configurable controls that are designed to ena
 
 * **Determine which employees in sensitive roles should be excluded from incremental data**   Some organizations may have employees in sensitive roles who should never contribute to incremental data. To support this, MyAnalytics provides admins with the ability to mark these people as “excluded.” Excluded users cannot opt in to contribute to incremental data. However, the MyAnalytics experience will still be available to these users provided that they are licensed.
 
+<According to this article: https://docs.microsoft.com/en-us/workplace-analytics/myanalytics/setup/configure-myanalytics the Excluded mode is being retired>
+
  Note that if default settings are used, the following applies:
 
  * All employees in your organization contribute to [incremental data](../Overview/privacy-guide.md#incremental-data) whether or not they have been issued licenses with the MyAnalytics service. 
